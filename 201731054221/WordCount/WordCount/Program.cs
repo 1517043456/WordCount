@@ -10,11 +10,6 @@ namespace WordCount
     {
         static void Main(string[] args)
         {
-            string s1 = "-i";
-            string s2 = "input";
-            string s3 = "-m";
-            string s4 = "3";
-            string[] s = {s1,s2,s3,s4 };
             try
             {
                 //将控制台传入的命令送去解析
