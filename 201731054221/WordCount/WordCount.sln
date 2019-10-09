@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\WordCount.csproj", "{54513901-F222-4D90-9273-37739493D2EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCountTests", "WordCountTests\WordCountTests.csproj", "{202BFB86-9BA0-4448-A545-EA1549771DCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{54513901-F222-4D90-9273-37739493D2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54513901-F222-4D90-9273-37739493D2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54513901-F222-4D90-9273-37739493D2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202BFB86-9BA0-4448-A545-EA1549771DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202BFB86-9BA0-4448-A545-EA1549771DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202BFB86-9BA0-4448-A545-EA1549771DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202BFB86-9BA0-4448-A545-EA1549771DCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
